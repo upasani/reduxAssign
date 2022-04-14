@@ -1,4 +1,4 @@
-// so in the stor we need something from the redux library
+// so in the store we need something from the redux library
 //1st one is createStore and another one is the combineReducer
 //createStore wiil createStore for us and combineReducer is its in name that combine all
 //different types of reducer and into the root reducer
